@@ -1,0 +1,18 @@
+{
+    "name": "Genesis Meem",
+    "description": "Hello Meem #0",
+    "external_url": "https://meem.wtf/tokens/0",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/3.png",
+    "background_color": "FF0000",
+    "attributes": [
+        {
+            "trait_type": "kind",
+            "value": "genesis"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "birthday",
+            "value": 1632859345
+        }
+    ]
+}
