@@ -1,0 +1,8 @@
+{
+    "name": "Meem",
+    "description": "Meem the world!",
+    "image": "https://meem.wtf",
+    "external_link": "https://meem.wtf",
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721"
+}
